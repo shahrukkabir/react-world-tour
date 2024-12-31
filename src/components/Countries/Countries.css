@@ -7,3 +7,7 @@
 .flag-container img {
     width: 100px;
 }
+
+ul {
+    list-style: none;
+  }
